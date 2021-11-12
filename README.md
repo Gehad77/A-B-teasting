@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and deep learning 
 - 🌱 I’m currently learning deep learning 
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me ( in Instagram " gehad_magdy79 " ) 
+- 📫 How to reach me (  Jehadmagdysabry@gmail.com ) 
 
 <!---
 Gehad77/Gehad77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
