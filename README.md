@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gehad77
 - 👀 I’m interested in machine learning and deep learning 
-- 🌱 I’m currently learning deep learning 
+- 🌱 I’m currently learning Data Analysis & Data science
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me (  Jehadmagdysabry@gmail.com ) 
 
