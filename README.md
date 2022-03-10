@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gehad77
+- 👋 Hi, I’m @Gehad Magdy Sabry
 - 👀 I’m interested in machine learning and deep learning 
 - 🌱 I’m currently learning Data Analysis & Data science
 - 💞️ I’m looking to collaborate on projects 
