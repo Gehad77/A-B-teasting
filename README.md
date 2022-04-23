@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Gehad Magdy Sabry
+👋 Hey everyone, I'm Jehad Magdy 👋
+
+
 - 👀 I’m interested in machine learning and deep learning 
 - 🌱 I’m currently learning Data Analysis & Data science
 - 💞️ I’m looking to collaborate on projects 
@@ -7,7 +9,7 @@
  
 ⚡ Fun fact I think I'm fun in jokes  🐸
 
-Language  : 
+Language : 
 Python, C++ 
 
 Tools using in data visualization : 
