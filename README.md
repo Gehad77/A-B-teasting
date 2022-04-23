@@ -12,7 +12,7 @@
  
 ⚡ Fun fact I think I'm fun in jokes  🐸
 
-./Language : 
+Language : 
 Python, C++ 
 
 Tools using in data visualization : 
